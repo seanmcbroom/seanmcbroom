@@ -16,7 +16,7 @@ const seanMcBroom = {
         },
         backEnd: {
             js: [Typescript, Express],
-            network: [Nginx, DNS Record Management]
+            network: [Nginx, Cloudflare]
         }
     }
 };
