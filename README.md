@@ -8,7 +8,7 @@ const seanMcBroom = {
     pronouns: "he" | "him",
     spokenLanguages: [English],
     codeLanguages: [Javascript, Typescript, Python, Java, HTML, CSS, Lua, Handlebars],
-    askMeAbout: ["tech", "open source", "travel", "music", "bodybuilding", "rhythm games"],
+    askMeAbout: ["tech", "open source", "travel", "music", "exercise", "rhythm games", "ai"],
     webTechnologies: {
         frontEnd: {
             js: [React, Redux, Vite, MaterialUI],
