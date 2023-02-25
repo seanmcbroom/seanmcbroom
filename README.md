@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sean-mcbroom-73bb16221/)](https://www.linkedin.com/in/sean-mcbroom-73bb16221/)
 ![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:sean.mcbroom@outlook.com)
 
-
 ```javascript
 const seanMcBroom = {
     pronouns: "he" | "him",
@@ -21,6 +20,18 @@ const seanMcBroom = {
     }
 };
 ```
+
+<h2 align="center">Statistics</h2>
+
+<div align="center" display="flex" flex-direction: "column">
+  <img src="https://github-readme-stats.vercel.app/api/?username=seanmcbroom&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&layout=compact&theme=dark" />
+</div>
+
+<p align="center">
+  Check out my repos below :^)
+</p>
+
 
 <!--
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/seanmcbroom)](https://github.com/seanmcbroom)
@@ -40,14 +51,3 @@ My name is Sean McBroom, I am a computer science enthusiast who is passionate ab
 
 [Showcase your best work and projects. You can do this by adding screenshots, links, or embeds of your projects.]
 -->
-
-## Statistics
-
-<div align="center" display="flex" flex-direction: "column">
-  <img src="https://github-readme-stats.vercel.app/api/?username=seanmcbroom&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&layout=compact&theme=dark" />
-</div>
-
-<p align="center">
-  Check out my repos below :^)
-</p>
