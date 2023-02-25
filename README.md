@@ -4,10 +4,9 @@ My name is Sean McBroom, I am a computer science enthusiast who is passionate ab
 
 ## 🚀 Skills
 
-- JavaScript :sparkles:
-- TypeScript :sparkles:
+- TypeScript, JavaScript 🌟
 - React :atom:
-- GNU/Linux :penguin:
+- GNU/Linux
 - Git :octocat:
 - Computer Networking 
 - Web Design 
@@ -22,7 +21,7 @@ My name is Sean McBroom, I am a computer science enthusiast who is passionate ab
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=seanmcbroom&show_icons=true&theme=dark)](https://github.com/seanmcbroom/github-readme-stats) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&theme=dark)](https://github.com/seanmcbroom/github-readme-stats)
 
-### 🤝 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sean-mcbroom-73bb16221/)](https://www.linkedin.com/in/sean-mcbroom-73bb16221/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/seanmcbroom)](https://github.com/seanmcbroom)
