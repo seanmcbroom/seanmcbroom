@@ -15,7 +15,8 @@ const seanMcBroom = {
             js: [React, Redux, Typescript, Vite, MaterialUI],
         },
         backEnd: {
-            js: [NodeJS, Typescript, Express],
+            js: [Typescript, Express],
+            network: [Nginx, DNS Record Management]
         }
     }
 };
