@@ -12,10 +12,10 @@ const seanMcBroom = {
     askMeAbout: ["tech", "open source", "travel", "music", "bodybuilding", "rhythm games"],
     webTechnologies: {
         frontEnd: {
-            js: [React, Redux, Typescript, Vite, MaterialUI],
+            js: [React, Redux, Vite, MaterialUI],
         },
         backEnd: {
-            js: [Typescript, Express],
+            js: [Express],
             network: [Nginx, Cloudflare]
         }
     }
