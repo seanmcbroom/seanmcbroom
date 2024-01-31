@@ -9,15 +9,13 @@
 
   My name is Sean McBroom, I am a computer science enthusiast who is passionate about the field because of the endless possibilities for creativity it offers. I have a natural aptitude for problem-solving and enjoy the challenge of finding unique solutions to complex problems. I am always eager to learn new programming languages and technologies, and constantly experimenting with new ideas and projects. I am also a strong collaborator, and enjoy working with others to bring their ideas to life. Always inspiring others to think outside the box and push the boundaries of what is possible. My ultimate goal is to make a positive impact on the world through my work in computer science.
 
-<br/>
-
-<h2 align="center">Stats</h2>
+<h2 align="center"></h2>
 
 <br/>
 
-<div align="center" display="flex" flex-direction: "column">
-  <img src="https://github-readme-stats.vercel.app/api/?username=seanmcbroom&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&layout=compact&theme=dark" />
+<div align="center" style="display: flex; flex-direction: column; justify-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/?username=seanmcbroom&layout=compact&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&layout=compact&theme=dark" alt="Top Languages">
 </div>
 
 <br/>
