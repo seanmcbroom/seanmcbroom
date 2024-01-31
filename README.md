@@ -1,6 +1,6 @@
 # 🐇 Sean McBroom
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/517529173061795840/)
+<!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/517529173061795840/)-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sean-mcbroom-73bb16221/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:sean.mcbroom@outlook.com)
 <!--[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/seanmcbroom)](https://github.com/seanmcbroom)-->
