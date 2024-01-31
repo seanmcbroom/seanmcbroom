@@ -20,6 +20,6 @@
 
 <br/>
 
-<p align="center">
+<h3 align="center">
   Check out my repos below :^)
-</p>
+</h3>
