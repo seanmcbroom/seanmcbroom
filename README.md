@@ -24,5 +24,5 @@
 -->
 
 <h3 align="center">
-  Check out my repos below :^)
+  Check out my repos below ^_^
 </h3>
