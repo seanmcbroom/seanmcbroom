@@ -6,7 +6,7 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&layout=compact&theme=dark' alt='Top Languages'>
   
   <h3 align='center'>
-    Check out my repos below ヽ(^_^ )
+    Check out my repos below ♪
   </h3>
 </p>
 
