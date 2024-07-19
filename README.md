@@ -23,6 +23,10 @@
 <br/>
 -->
 
+<div align="center" style="display: flex; flex-direction: column; justify-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcbroom&layout=compact&theme=dark" alt="Top Languages">
+</div>
+
 <h3 align="center">
   Check out my repos below ^_^
 </h3>
