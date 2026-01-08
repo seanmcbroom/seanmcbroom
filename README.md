@@ -5,6 +5,6 @@
 ### hey there 👋
 
 - I'm a **full-stack programmer** based in *West Des Moines, Iowa*  
-- I focus on **web development** and **Japanese-related projects**, primarily with *TypeScript* and other languages  
+- I focus on **web development** and **Japanese-related projects**, primarily with *TypeScript*  
 - You can **contact me** using the links *above*  
 - Check out my public **repos** below ♪
